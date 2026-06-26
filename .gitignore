@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+outputs/
+*.pt
+*.safetensors
+secret_vector*.pt
+secret_hook*.txt
+
+.env
+.DS_Store
+instructor_create_secret_hook.py
