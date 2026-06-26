@@ -5,9 +5,7 @@ __pycache__/
 .pytest_cache/
 
 outputs/
-*.pt
 *.safetensors
-secret_vector*.pt
 secret_hook*.txt
 
 .env
